@@ -1,0 +1,55 @@
+[0m[[0mdebug[0m] [0mInvalidating /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar: stamp changed from lastModified(1422319719000) to lastModified(1445497156000)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set(/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar)[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set(/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala, /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala, /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala, /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala, /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala, /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala, /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala, /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala)[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala, /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala, /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala, /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala, /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala, /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala, /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala, /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 8 sources: invalidated sources (8) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 8 Scala sources to /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.6[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.11.6  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_c708d7ca[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes:/home/shengbolou/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/shengbolou/.sbt/boot/scala-2.10.5/org.scala-sbt/sbt/0.13.9/xsbti/interface-0.13.9.jar:/home/shengbolou/.sbt/boot/scala-2.10.5/org.scala-sbt/sbt/0.13.9/compiler-interface-src/compiler-interface-src-0.13.9.jar:/home/shengbolou/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.6.jar:/home/shengbolou/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.6.jar:/home/shengbolou/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.3.jar:/home/shengbolou/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.3.jar:/home/shengbolou/.ivy2/cache/jline/jline/jars/jline-2.12.1.jar[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_4038fe1b/xsbt/API.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_4038fe1b/xsbt/Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_4038fe1b/xsbt/Command.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_4038fe1b/xsbt/Compat.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_4038fe1b/xsbt/CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_4038fe1b/xsbt/ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_4038fe1b/xsbt/DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_4038fe1b/xsbt/Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_4038fe1b/xsbt/ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_4038fe1b/xsbt/ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_4038fe1b/xsbt/LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_4038fe1b/xsbt/Log.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_4038fe1b/xsbt/Message.scala[0m
+[0m[[0mdebug[0m] [0m	/tmp/sbt_4038fe1b/xsbt/ScaladocInterface.scala[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.6[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 4dc18d02, interfacing (CompilerInterface) with Scala compiler version 2.11.6[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/classes:/home/shengbolou/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes:/home/shengbolou/.ivy2/cache/org.scalaj/scalaj-http_2.11/jars/scalaj-http_2.11-1.1.4.jar:/home/shengbolou/.ivy2/cache/org.scalikejdbc/scalikejdbc_2.11/jars/scalikejdbc_2.11-2.2.5.jar:/home/shengbolou/.ivy2/cache/org.scalikejdbc/scalikejdbc-core_2.11/jars/scalikejdbc-core_2.11-2.2.5.jar:/home/shengbolou/.ivy2/cache/commons-dbcp/commons-dbcp/jars/commons-dbcp-1.4.jar:/home/shengbolou/.ivy2/cache/commons-pool/commons-pool/jars/commons-pool-1.5.4.jar:/home/shengbolou/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.10.jar:/home/shengbolou/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.7.jar:/home/shengbolou/.ivy2/cache/org.joda/joda-convert/jars/joda-convert-1.7.jar:/home/shengbolou/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.3.jar:/home/shengbolou/.ivy2/cache/org.scalikejdbc/scalikejdbc-interpolation_2.11/jars/scalikejdbc-interpolation_2.11-2.2.5.jar:/home/shengbolou/.ivy2/cache/org.scalikejdbc/scalikejdbc-interpolation-macro_2.11/jars/scalikejdbc-interpolation-macro_2.11-2.2.5.jar:/home/shengbolou/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.6.jar:/home/shengbolou/.ivy2/cache/com.h2database/h2/jars/h2-1.4.186.jar:/home/shengbolou/.ivy2/cache/ch.qos.logback/logback-classic/jars/logback-classic-1.1.2.jar:/home/shengbolou/.ivy2/cache/ch.qos.logback/logback-core/jars/logback-core-1.1.2.jar:/home/shengbolou/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.9.jar:/home/shengbolou/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 22.714596304 s[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

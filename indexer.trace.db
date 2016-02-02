@@ -1,0 +1,62 @@
+04-24 17:16:29 database: flush
+org.h2.message.DbException: General error: "java.lang.IllegalStateException: Writing to cache:nio:/vagrant/28530995/asn-inverted-index-student-master/indexer.mv.db failed; length 16384 at 16384 [1.4.186/2]" [50000-186]
+	at org.h2.message.DbException.get(DbException.java:168)
+	at org.h2.message.DbException.convert(DbException.java:295)
+	at org.h2.mvstore.db.MVTableEngine$1.uncaughtException(MVTableEngine.java:93)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:371)
+	at org.h2.mvstore.MVStore.write(MVStore.java:776)
+	at org.h2.mvstore.MVStore.storeNowTry(MVStore.java:1118)
+	at org.h2.mvstore.MVStore.storeNow(MVStore.java:976)
+	at org.h2.mvstore.MVStore.commitAndSave(MVStore.java:965)
+	at org.h2.mvstore.MVStore.compactRewrite(MVStore.java:1820)
+	at org.h2.mvstore.MVStore.compact(MVStore.java:1704)
+	at org.h2.mvstore.MVStore.writeInBackground(MVStore.java:2396)
+	at org.h2.mvstore.MVStore$BackgroundWriterThread.run(MVStore.java:2586)
+Caused by: org.h2.jdbc.JdbcSQLException: General error: "java.lang.IllegalStateException: Writing to cache:nio:/vagrant/28530995/asn-inverted-index-student-master/indexer.mv.db failed; length 16384 at 16384 [1.4.186/2]" [50000-186]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	... 12 more
+Caused by: java.lang.IllegalStateException: Writing to cache:nio:/vagrant/28530995/asn-inverted-index-student-master/indexer.mv.db failed; length 16384 at 16384 [1.4.186/2]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:773)
+	at org.h2.mvstore.DataUtils.writeFully(DataUtils.java:466)
+	at org.h2.mvstore.FileStore.writeFully(FileStore.java:113)
+	at org.h2.mvstore.MVStore.write(MVStore.java:774)
+	... 7 more
+Caused by: java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:202)
+	at sun.nio.ch.FileChannelImpl.writeInternal(FileChannelImpl.java:750)
+	at sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:731)
+	at org.h2.store.fs.FileNio.write(FilePathNio.java:79)
+	at org.h2.mvstore.cache.FilePathCache$FileCache.write(FilePathCache.java:123)
+	at org.h2.mvstore.DataUtils.writeFully(DataUtils.java:462)
+	... 9 more
+04-24 17:16:29 database: could not close the database
+org.h2.message.DbException: General error: "java.lang.IllegalStateException: Writing to cache:nio:/vagrant/28530995/asn-inverted-index-student-master/indexer.mv.db failed; length 16384 at 16384 [1.4.186/2]" [50000-186]
+	at org.h2.message.DbException.get(DbException.java:168)
+	at org.h2.message.DbException.convert(DbException.java:295)
+	at org.h2.mvstore.db.MVTableEngine$1.uncaughtException(MVTableEngine.java:93)
+	at org.h2.mvstore.MVStore.panic(MVStore.java:371)
+	at org.h2.mvstore.MVStore.write(MVStore.java:776)
+	at org.h2.mvstore.MVStore.storeNowTry(MVStore.java:1118)
+	at org.h2.mvstore.MVStore.storeNow(MVStore.java:976)
+	at org.h2.mvstore.MVStore.commitAndSave(MVStore.java:965)
+	at org.h2.mvstore.MVStore.compactRewrite(MVStore.java:1820)
+	at org.h2.mvstore.MVStore.compact(MVStore.java:1704)
+	at org.h2.mvstore.MVStore.writeInBackground(MVStore.java:2396)
+	at org.h2.mvstore.MVStore$BackgroundWriterThread.run(MVStore.java:2586)
+Caused by: org.h2.jdbc.JdbcSQLException: General error: "java.lang.IllegalStateException: Writing to cache:nio:/vagrant/28530995/asn-inverted-index-student-master/indexer.mv.db failed; length 16384 at 16384 [1.4.186/2]" [50000-186]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:345)
+	... 12 more
+Caused by: java.lang.IllegalStateException: Writing to cache:nio:/vagrant/28530995/asn-inverted-index-student-master/indexer.mv.db failed; length 16384 at 16384 [1.4.186/2]
+	at org.h2.mvstore.DataUtils.newIllegalStateException(DataUtils.java:773)
+	at org.h2.mvstore.DataUtils.writeFully(DataUtils.java:466)
+	at org.h2.mvstore.FileStore.writeFully(FileStore.java:113)
+	at org.h2.mvstore.MVStore.write(MVStore.java:774)
+	... 7 more
+Caused by: java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(AbstractInterruptibleChannel.java:202)
+	at sun.nio.ch.FileChannelImpl.writeInternal(FileChannelImpl.java:750)
+	at sun.nio.ch.FileChannelImpl.write(FileChannelImpl.java:731)
+	at org.h2.store.fs.FileNio.write(FilePathNio.java:79)
+	at org.h2.mvstore.cache.FilePathCache$FileCache.write(FilePathCache.java:123)
+	at org.h2.mvstore.DataUtils.writeFully(DataUtils.java:462)
+	... 9 more

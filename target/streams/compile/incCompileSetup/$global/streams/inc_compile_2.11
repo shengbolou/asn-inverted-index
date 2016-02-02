@@ -1,0 +1,773 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+61 items
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Indexer$$anonfun$1.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Indexer$.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Indexer$delayedInit$body.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Indexer.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Searcher$$anonfun$1.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Searcher$$anonfun$2.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Searcher$$anonfun$list$1.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Searcher$$anonfun$search$1.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Searcher$.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Searcher$delayedInit$body.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Searcher.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/FetchActor$$anonfun$fetch$1.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/FetchActor$$anonfun$receive$1.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/FetchActor.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$$anonfun$receive$1.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Documents$$anonfun$1.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Documents$$anonfun$2.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Documents$$anonfun$printAll$1.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Documents$.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Documents.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Index$.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Words$$anonfun$3.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Words$$anonfun$4.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Words$$anonfun$printAll$2.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Words$.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Words.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/LinkQueueActor$$anonfun$receive$1.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/LinkQueueActor.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/CheckLink$.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/CheckLink.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/CheckPage$.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/CheckPage.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/FetchLink$.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/FetchLink.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/Link$.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/Link.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/NeedLink$.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/NeedLink.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/NeedPage$.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/NeedPage.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/NoLinks$.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/NoLinks.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/NoPages$.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/NoPages.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/Page$.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/Page.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParsePage$.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParsePage.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/QueueLink$.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/QueueLink.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/Word$.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/Word.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParseActor$$anonfun$receive$1$$anonfun$1.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParseActor$$anonfun$receive$1$$anonfun$2.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParseActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParseActor$$anonfun$receive$1$$anonfun$applyOrElse$2.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParseActor$$anonfun$receive$1.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParseActor.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParseQueueActor$$anonfun$receive$1.class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParseQueueActor.class
+binary dependencies:
+27 items
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> /home/shengbolou/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.9.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> /home/shengbolou/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> /home/shengbolou/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> /home/shengbolou/.ivy2/cache/org.scalikejdbc/scalikejdbc-core_2.11/jars/scalikejdbc-core_2.11-2.2.5.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> /home/shengbolou/.ivy2/cache/org.scalikejdbc/scalikejdbc_2.11/jars/scalikejdbc_2.11-2.2.5.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> /home/shengbolou/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.9.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> /home/shengbolou/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> /home/shengbolou/.ivy2/cache/org.scalaj/scalaj-http_2.11/jars/scalaj-http_2.11-1.1.4.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> /home/shengbolou/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.9.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> /home/shengbolou/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> /home/shengbolou/.ivy2/cache/org.scalikejdbc/scalikejdbc-core_2.11/jars/scalikejdbc-core_2.11-2.2.5.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> /home/shengbolou/.ivy2/cache/org.scalikejdbc/scalikejdbc_2.11/jars/scalikejdbc_2.11-2.2.5.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> /home/shengbolou/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.9.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> /home/shengbolou/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /home/shengbolou/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> /home/shengbolou/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.9.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> /home/shengbolou/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> /home/shengbolou/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.9.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> /home/shengbolou/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+8 items
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> /home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+61 items
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> cs220.Indexer
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> cs220.Indexer$
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> cs220.Indexer$$anonfun$1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> cs220.Indexer$delayedInit$body
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> cs220.Searcher
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> cs220.Searcher$
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> cs220.Searcher$$anonfun$1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> cs220.Searcher$$anonfun$2
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> cs220.Searcher$$anonfun$list$1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> cs220.Searcher$$anonfun$search$1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> cs220.Searcher$delayedInit$body
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> cs220.actors.FetchActor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> cs220.actors.FetchActor$$anonfun$fetch$1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> cs220.actors.FetchActor$$anonfun$receive$1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> cs220.actors.IndexActor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> cs220.actors.IndexActor$$anonfun$receive$1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> cs220.actors.IndexActor$Documents
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> cs220.actors.IndexActor$Documents$
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> cs220.actors.IndexActor$Documents$$anonfun$1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> cs220.actors.IndexActor$Documents$$anonfun$2
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> cs220.actors.IndexActor$Documents$$anonfun$printAll$1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> cs220.actors.IndexActor$Index$
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> cs220.actors.IndexActor$Words
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> cs220.actors.IndexActor$Words$
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> cs220.actors.IndexActor$Words$$anonfun$3
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> cs220.actors.IndexActor$Words$$anonfun$4
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> cs220.actors.IndexActor$Words$$anonfun$printAll$2
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> cs220.actors.LinkQueueActor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> cs220.actors.LinkQueueActor$$anonfun$receive$1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.CheckLink
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.CheckLink$
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.CheckPage
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.CheckPage$
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.FetchLink
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.FetchLink$
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.Link
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.Link$
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.NeedLink
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.NeedLink$
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.NeedPage
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.NeedPage$
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.NoLinks
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.NoLinks$
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.NoPages
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.NoPages$
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.Page
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.Page$
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.ParsePage
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.ParsePage$
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.QueueLink
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.QueueLink$
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.Word
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220.actors.Word$
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> cs220.actors.ParseActor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> cs220.actors.ParseActor$$anonfun$receive$1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> cs220.actors.ParseActor$$anonfun$receive$1$$anonfun$1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> cs220.actors.ParseActor$$anonfun$receive$1$$anonfun$2
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> cs220.actors.ParseActor$$anonfun$receive$1$$anonfun$applyOrElse$1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> cs220.actors.ParseActor$$anonfun$receive$1$$anonfun$applyOrElse$2
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> cs220.actors.ParseQueueActor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> cs220.actors.ParseQueueActor$$anonfun$receive$1
+used names:
+436 items
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> !
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> <init>
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> ==
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> ActorSystem
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> App
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> ClassTag
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> Exception
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> IndexActor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> Indexer
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> Predef
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> Props
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> System
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> actor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> actorOf
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> actorRef2Scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> actors
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> akka
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> apply
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> args
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> cs220
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> exit
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> indexer
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> java
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> lang
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> length
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> linkQueue
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> materializeClassTag
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> package
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> parseQueue
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> println
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> qual$1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> shutdown
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> system
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> x$1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> x$2
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> <init>
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> =:=
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> ==
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> App
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> AutoSession
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> Class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> ConnectionPool
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> GeneralizedTypeConstraintsForWithExtractor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> Predef
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> Searcher
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> String
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> StringContext
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> apply
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> args
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> cs220
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> d
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> docs
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> forName
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> foreach
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> java
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> lang
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> length
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> list
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> map
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> package
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> println
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> qual$1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> qual$2
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> rs
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> scalikejdbc
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> scalikejdbcSQLInterpolationImplicitDef
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> search
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> session
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> singleton
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> sql
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> string
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> tpEquals
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> w
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> word
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> words
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> x$1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> x$10
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> x$11
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> x$2
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> x$3
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> x$4
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> x$5
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> x$6
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> x$7
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> x$8
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> x$9
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> !
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> +
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> <init>
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> ==
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> A1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> Actor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> ActorLogging
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> ActorRef
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> B1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> Failure
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> FetchActor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> Function1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> Http
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> NeedLink
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> NoLinks
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> Predef
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> String
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> StringContext
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> Success
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> Try
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> actor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> actorRef2Scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> actors
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> akka
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> apply
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> asInstanceOf
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> asString
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> body
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> cs220
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> fetch
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> get
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> http
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> info
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> isFailure
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> isInstanceOf
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> log
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> num
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> num_=
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> package
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> queue
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> s
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> scalaj
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> self
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> sender
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> unchecked
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> url
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> util
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> !
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> +
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> <init>
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> =:=
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> ==
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> A1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> Actor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> ActorLogging
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> AnyRef
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> AutoSession
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> B1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> Class
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> ConnectionPool
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> Documents
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> Function1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> GeneralizedTypeConstraintsForWithExtractor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> Index
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> IndexActor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> Int
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> None
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> Option
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> Predef
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> String
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> StringContext
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> Unit
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> Words
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> a
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> actor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> actorRef2Scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> actors
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> akka
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> apply
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> asInstanceOf
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> createDatabase
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> cs220
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> docid
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> forName
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> foreach
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> get
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> html
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> info
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> insert
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> int
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> isInstanceOf
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> java
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> lang
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> list
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> log
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> map
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> num
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> num_=
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> package
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> println
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> qual$1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> qual$2
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> qual$3
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> qual$4
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> rs
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> s
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> scalikejdbc
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> scalikejdbcSQLInterpolationImplicitDef
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> self
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> sender
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> session
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> single
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> singleton
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> sql
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> string
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> tpEquals
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> unchecked
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> update
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> url
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> word
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> wordid
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$10
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$11
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$12
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$13
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$14
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$15
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$16
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$17
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$18
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$19
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$2
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$20
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$21
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$22
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$23
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$24
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$25
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$26
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$27
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$28
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$29
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$3
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$30
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$31
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$32
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$33
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$34
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$35
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$36
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$37
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$38
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$39
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$4
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$40
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$41
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$42
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$5
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$6
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$7
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$8
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> x$9
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> !
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> -
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> <init>
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> ==
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> A1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> Actor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> ActorLogging
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> ActorRef
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> B1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> Function1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> Indexer
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> LinkQueueActor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> NeedLink
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> NoLinks
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> Predef
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> Queue
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> Set
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> String
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> actor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> actorRef2Scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> actors
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> akka
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> apply
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> asInstanceOf
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> collection
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> context
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> cs220
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> dequeue
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> enqueue
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> html
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> info
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> isEmpty
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> isInstanceOf
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> limit
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> limit_=
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> log
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> mutable
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> package
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> parseQueue
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> queue
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> self
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> sender
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> shutdown
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> system
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> unchecked
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> url
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> &&
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> <init>
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> ==
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> AbstractFunction1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> AbstractFunction2
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> CheckLink
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> CheckPage
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> FetchLink
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> Link
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> NeedLink
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> NeedPage
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> NoLinks
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> NoPages
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> None
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> Page
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> ParsePage
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> Predef
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> Product
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> QueueLink
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> ScalaRunTime
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> Serializable
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> String
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> Word
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> _hashCode
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> _toString
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> actors
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> asInstanceOf
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> cs220
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> eq
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> html
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> isInstanceOf
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> runtime
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> toString
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> typedProductIterator
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> url
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> word
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> ||
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> !
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> !=
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> <init>
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> ==
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> A1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> Actor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> ActorLogging
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> ActorRef
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> ArrayofLinks
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> ArrayofWords
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> B1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> Function1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> NeedPage
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> NoPages
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> ParseActor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> Predef
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> RMalltages
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> RMnewlines
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> RMwhitespaces
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> Regex
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> actor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> actorRef2Scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> actors
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> akka
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> apply
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> asInstanceOf
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> augmentString
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> cs220
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> distinct
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> filter
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> findAllIn
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> foreach
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> getLinks
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> html
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> info
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> isInstanceOf
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> keepchar
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> log
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> matching
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> mkString
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> package
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> pq
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> r
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> refArrayOps
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> replaceAllIn
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> self
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> sender
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> split
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> unchecked
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> url
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> util
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> x
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> !
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> <init>
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> ==
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> A1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> Actor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> ActorLogging
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> ActorRef
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> B1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> Function1
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> NeedPage
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> NoPages
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> None
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> Option
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> ParsePage
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> ParseQueueActor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> Queue
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> actor
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> actorRef2Scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> actors
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> akka
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> apply
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> asInstanceOf
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> collection
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> cs220
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> dequeue
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> enqueue
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> get
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> html
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> indexer
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> info
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> isEmpty
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> isInstanceOf
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> linkQueue
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> linkQueue_=
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> log
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> mutable
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> package
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> queue
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> scala
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> self
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> sender
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> unary_!
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> unchecked
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> url
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> word
+product stamps:
+61 items
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Indexer$$anonfun$1.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Indexer$.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Indexer$delayedInit$body.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Indexer.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Searcher$$anonfun$1.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Searcher$$anonfun$2.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Searcher$$anonfun$list$1.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Searcher$$anonfun$search$1.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Searcher$.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Searcher$delayedInit$body.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/Searcher.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/CheckLink$.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/CheckLink.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/CheckPage$.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/CheckPage.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/FetchActor$$anonfun$fetch$1.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/FetchActor$$anonfun$receive$1.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/FetchActor.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/FetchLink$.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/FetchLink.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$$anonfun$receive$1.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Documents$$anonfun$1.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Documents$$anonfun$2.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Documents$$anonfun$printAll$1.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Documents$.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Documents.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Index$.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Words$$anonfun$3.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Words$$anonfun$4.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Words$$anonfun$printAll$2.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Words$.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor$Words.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/IndexActor.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/Link$.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/Link.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/LinkQueueActor$$anonfun$receive$1.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/LinkQueueActor.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/NeedLink$.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/NeedLink.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/NeedPage$.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/NeedPage.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/NoLinks$.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/NoLinks.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/NoPages$.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/NoPages.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/Page$.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/Page.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParseActor$$anonfun$receive$1$$anonfun$1.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParseActor$$anonfun$receive$1$$anonfun$2.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParseActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParseActor$$anonfun$receive$1$$anonfun$applyOrElse$2.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParseActor$$anonfun$receive$1.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParseActor.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParsePage$.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParsePage.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParseQueueActor$$anonfun$receive$1.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/ParseQueueActor.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/QueueLink$.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/QueueLink.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/Word$.class -> lastModified(1453582682000)
+/home/shengbolou/28530995/asn-inverted-index-student-master/target/scala-2.11/classes/cs220/actors/Word.class -> lastModified(1453582682000)
+source stamps:
+8 items
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> hash(aa5122ad7c5bbb524abe81a3b4559f67c9cef8d2)
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> hash(1d810fbf6d307122c9ffec7d0c0d295fb4d2f0ce)
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> hash(b699c33c58771670a03cfaaa0e9d0c984f385daf)
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> hash(47c270a4765d4117a18686c9a7bfcf9e88227d4e)
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> hash(c485e35cd8df0c150062c5a6c6849d0419268718)
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> hash(949da7da2cad46930f3cda077883b7497a1c18bb)
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> hash(cfd361991c5adef1dc340ef241c97746334ea709)
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> hash(07e98069198f3e310cad2df8bf84ed2c422597a9)
+binary stamps:
+6 items
+/home/shengbolou/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.9.jar -> lastModified(1421734693000)
+/home/shengbolou/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> lastModified(1424912463000)
+/home/shengbolou/.ivy2/cache/org.scalaj/scalaj-http_2.11/jars/scalaj-http_2.11-1.1.4.jar -> lastModified(1423506981000)
+/home/shengbolou/.ivy2/cache/org.scalikejdbc/scalikejdbc-core_2.11/jars/scalikejdbc-core_2.11-2.2.5.jar -> lastModified(1426666263000)
+/home/shengbolou/.ivy2/cache/org.scalikejdbc/scalikejdbc_2.11/jars/scalikejdbc_2.11-2.2.5.jar -> lastModified(1426666311000)
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> lastModified(1445497156000)
+class names:
+6 items
+/home/shengbolou/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.9.jar -> akka.actor.Actor
+/home/shengbolou/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> scala.Serializable
+/home/shengbolou/.ivy2/cache/org.scalaj/scalaj-http_2.11/jars/scalaj-http_2.11-1.1.4.jar -> scalaj.http.Http$
+/home/shengbolou/.ivy2/cache/org.scalikejdbc/scalikejdbc-core_2.11/jars/scalikejdbc-core_2.11-2.2.5.jar -> scalikejdbc.AutoSession$
+/home/shengbolou/.ivy2/cache/org.scalikejdbc/scalikejdbc_2.11/jars/scalikejdbc_2.11-2.2.5.jar -> scalikejdbc.package$
+/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+8 items
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAJ31swAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJ9xa/x0AAZub3RpZnlzcQB+AAzGajoVdAAEd2FpdHNxAH4ADDUi13h0AA0kYXNJbnN0YW5jZU9mc3EAfgAMO9Bjx3QABnN5c3RlbXNxAH4ADMajFPR0AAZlcXVhbHNzcQB+AAxlhNaldAAHSW5kZXhlcnNxAH4ADCJy6Ll0AAxhc0luc3RhbmNlT2ZzcQB+AAyn3AigdAAOZXhlY3V0aW9uU3RhcnRzcQB+AAzGLgl9dAAMc3luY2hyb25pemVkc3EAfgAMB7shenQADSRpc0luc3RhbmNlT2ZzcQB+AAwDBPM8dAAEbWFpbnNxAH4ADHNqvf90AAlub3RpZnlBbGxzcQB+AAxRE1t9dAAMaXNJbnN0YW5jZU9mc3EAfgAMx0Qaw3QAAj09c3EAfgAM+z45IHQABWNsb25lc3EAfgAMUmy45HQACHRvU3RyaW5nc3EAfgAM1WgV+3QABGFyZ3NzcQB+AAzYDqN4dAACIT1zcQB+AAz9m1lqdAAIZ2V0Q2xhc3NzcQB+AAz89pe8dAACbmVzcQB+AAyBZJC/dAACZXFzcQB+AAzA1ANVdAALZGVsYXllZEluaXRzcQB+AAzLFtnLdAACIyNzcQB+AAwGhJMydAAIZmluYWxpemVzcQB+AAw3CeJldAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAANY3MyMjAuSW5kZXhlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AYwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBqc3EAfgBjAXVxAH4ARAAAAABwc3EAfgBjAXVxAH4ARAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ASnEAfgBTdXEAfgBUAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AdHhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBpdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AI5zcQB+AFYAcQB+ACN1cQB+AFkAAAAAc3EAfgCBdAAEVW5pdHEAfgCHdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AdHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AXHQABVBsYWlucQB+AC9zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIJbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGlzcQB+AIF0AAVBcnJheXEAfgCHdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIF0AAZTdHJpbmdzcQB+AIVzcQB+AIh1cQB+AIsAAAADc3EAfgCNdAAEamF2YXNxAH4AjXQABGxhbmdxAH4AknBzcQB+AGMBdXEAfgCpAAAABHNxAH4AgXQAA0FwcHEAfgCHc3EAfgCBdAALRGVsYXllZEluaXRxAH4Ah3NxAH4AgXQABk9iamVjdHEAfgCtc3EAfgCBdAADQW55cQB+AIdwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABWNzMjIwc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFScEcx4HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFUvaG9tZS9zaGVuZ2JvbG91LzI4NTMwOTk1L2Fzbi1pbnZlcnRlZC1pbmRleC1zdHVkZW50LW1hc3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUqlEirXxbu1JKvoGjtFWfZ8nO+NI=
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCbeYBVAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAABc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwDLTgVXQAB3Nlc3Npb251cQB+AAkAAAAac3EAfgALxJD0GnQABm5vdGlmeXNxAH4ACxaaDLV0AAR3YWl0c3EAfgALVTGbtHQADSRhc0luc3RhbmNlT2ZzcQB+AAtlKbZsdAAGZXF1YWxzc3EAfgALwnJk6nQADGFzSW5zdGFuY2VPZnNxAH4AC0XOVL50AA5leGVjdXRpb25TdGFydHNxAH4AC7uETvl0AAxzeW5jaHJvbml6ZWRzcQB+AAs0dyehdAANJGlzSW5zdGFuY2VPZnNxAH4AC/tV1gd0AARtYWluc3EAfgALA6WaHHQACFNlYXJjaGVyc3EAfgALpz77LHQACW5vdGlmeUFsbHNxAH4ACywpa6l0AAxpc0luc3RhbmNlT2ZzcQB+AAv/R57kdAACPT1zcQB+AAtqHOqbdAAFY2xvbmVzcQB+AAuqGhCkdAAIdG9TdHJpbmdzcQB+AAtHtB22dAAEYXJnc3NxAH4AC49sxZl0AAIhPXNxAH4AC+/QbaN0AAhnZXRDbGFzc3NxAH4AC4KL1ul0AAJuZXNxAH4AC9eMSMJ0AAJlcXNxAH4ACwU4wfF0AAtkZWxheWVkSW5pdHNxAH4AC1rYb5J0AAIjI3NxAH4AC82VVZ50AARsaXN0c3EAfgALdQq8XXQACGZpbmFsaXplc3EAfgALmo5UsHQACGhhc2hDb2Rlc3EAfgALfL2JSXQABnNlYXJjaHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jczIyMC5TZWFyY2hlcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AZwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ATUwACWluaGVyaXRlZHEAfgBNTAAHcGFyZW50c3EAfgBNeHEAfgBuc3EAfgBnAXVxAH4ASAAAAABwc3EAfgBnAXVxAH4ASAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ATnEAfgBXdXEAfgBYAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AeHhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBtdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJJzcQB+AFoAcQB+ACF1cQB+AF0AAAAAc3EAfgCFdAAEVW5pdHEAfgCLdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4AeHhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AYHQABVBsYWlucQB+AC9zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIZbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AG1zcQB+AIV0AAVBcnJheXEAfgCLdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AIV0AAZTdHJpbmdzcQB+AIlzcQB+AIx1cQB+AI8AAAADc3EAfgCRdAAEamF2YXNxAH4AkXQABGxhbmdxAH4AlnBzcQB+AGcBdXEAfgCtAAAABHNxAH4AhXQAA0FwcHEAfgCLc3EAfgCFdAALRGVsYXllZEluaXRxAH4Ai3NxAH4AhXQABk9iamVjdHEAfgCxc3EAfgCFdAADQW55cQB+AItwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQABWNzMjIwc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFScEcx4HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFUvaG9tZS9zaGVuZ2JvbG91LzI4NTMwOTk1L2Fzbi1pbnZlcnRlZC1pbmRleC1zdHVkZW50LW1hc3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUHYEPv20wcSLJ/+x9DA0pX7TS8M4=
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCsmBgiAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw2fr5bnQABHNlbGZzcQB+AAsiyaLkdAAHY29udGV4dHVxAH4ACQAAACZzcQB+AAs33yyHdAAGbm90aWZ5c3EAfgAL26rIW3QAB1JlY2VpdmVzcQB+AAs4vW66dAAEd2FpdHNxAH4ACwLBB550AA0kYXNJbnN0YW5jZU9mc3EAfgALgQfT9XQABmVxdWFsc3NxAH4AC3ASHk90AAxhc0luc3RhbmNlT2ZzcQB+AAu23pkOdAAKRmV0Y2hBY3RvcnNxAH4AC107rcN0AAxzeW5jaHJvbml6ZWRzcQB+AAtUpXAjdAANJGlzSW5zdGFuY2VPZnNxAH4AC5KjOh50AAdyZWNlaXZlc3EAfgALFwg2t3QACnByZVJlc3RhcnRzcQB+AAtfKJ7pdAANYXJvdW5kUmVjZWl2ZXNxAH4AC625vjt0AAtwb3N0UmVzdGFydHNxAH4ACxoDCet0AAhwb3N0U3RvcHNxAH4AC01iTWt0AAlub3RpZnlBbGxzcQB+AAtxXqH6dAADbnVtc3EAfgAL3f0uq3QAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALRFLnHHQADGlzSW5zdGFuY2VPZnNxAH4AC+Hw47t0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALpCOF5HQADmFyb3VuZFBvc3RTdG9wc3EAfgALUU34OnQABjxpbml0PnNxAH4AC08yKbd0AAhwcmVTdGFydHNxAH4AC3aq+z10AAl1bmhhbmRsZWRzcQB+AAvTZkTYdAACPT1zcQB+AAvkRP9xdAAFY2xvbmVzcQB+AAt2osexdAAFZmV0Y2hzcQB+AAsHKNRydAAGc2VuZGVyc3EAfgALVl6N5XQACHRvU3RyaW5nc3EAfgALkWOJHXQAAiE9c3EAfgALnMWzy3QACGdldENsYXNzc3EAfgALV1LngXQAAm5lc3EAfgALQw7cPHQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC5TdXOx0AAJlcXNxAH4AC7/XjVB0AANsb2dzcQB+AAu3X4ESdAACIyNzcQB+AAvqGyJMdAAIZmluYWxpemVzcQB+AAv+VFkpdAAIaGFzaENvZGVzcQB+AAsqiePldAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBneHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAXY3MyMjAuYWN0b3JzLkZldGNoQWN0b3J1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AfwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZ0wACWluaGVyaXRlZHEAfgBnTAAHcGFyZW50c3EAfgBneHEAfgCGc3EAfgB/AXVxAH4AYgAAAABwc3EAfgB/AXVxAH4AYgAAAABwc3EAfgB/AXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AhXQADEFjdG9yTG9nZ2luZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AhXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4AnnQABWFjdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJ9zcQB+AJJ0AAVBY3RvcnEAfgCYc3EAfgCSdAAGT2JqZWN0c3EAfgCWc3EAfgCZdXEAfgCcAAAAA3NxAH4AnnQABGphdmFzcQB+AJ50AARsYW5ncQB+AKVzcQB+AJJ0AANBbnlzcQB+AJZzcQB+AJl1cQB+AJwAAAACc3EAfgCedAAFc2NhbGFxAH4ApXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAMY3MyMjAuYWN0b3Jzc3EAfgC6dAAFY3MyMjBzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVJwRzHgdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAVS9ob21lL3NoZW5nYm9sb3UvMjg1MzA5OTUvYXNuLWludmVydGVkLWluZGV4LXN0dWRlbnQtbWFzdGVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABS2mcM8WHcWcKA8+qoOnQyYTzhdrw==
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBDEU/nAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwhK+lAHQAB3Nlc3Npb25zcQB+AAtdoIEJdAAEc2VsZnNxAH4AC3V4OPx0AAdjb250ZXh0dXEAfgAJAAAAMXNxAH4ACzzrVgF0AApJbmRleEFjdG9yc3EAfgALOd1+C3QABm5vdGlmeXNxAH4AC0a/xsJ0AAdSZWNlaXZlc3EAfgALX+uCR3QABHdhaXRzcQB+AAswipHLdAANJGFzSW5zdGFuY2VPZnNxAH4ACyDhKOh0AAZpbnNlcnRzcQB+AAu117MydAADdXJsc3EAfgALvRxDJ3QABmVxdWFsc3NxAH4AC/XekJ90AAVkb2NpZHNxAH4AC+2Tl9B0AAxhc0luc3RhbmNlT2ZzcQB+AAu0d3BtdAAGd29yZGlkc3EAfgALt7+b8XQADHN5bmNocm9uaXplZHNxAH4AC8r0CB10AAhwcmludEFsbHNxAH4ACyQd6Od0AA0kaXNJbnN0YW5jZU9mc3EAfgALK+E1JXQAB3JlY2VpdmVzcQB+AAvuhj8UdAAKcHJlUmVzdGFydHNxAH4AC8RD5X50AA1hcm91bmRSZWNlaXZlc3EAfgALtWOPVHQAC3Bvc3RSZXN0YXJ0c3EAfgALXdqOO3QACHBvc3RTdG9wc3EAfgALIsiY6nQACW5vdGlmeUFsbHNxAH4AC0hcZJZ0AANudW1zcQB+AAv9bfiudAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAv3YEt/dAAOY3JlYXRlRGF0YWJhc2VzcQB+AAtRgmRKdAAMaXNJbnN0YW5jZU9mc3EAfgAL2r9nS3QAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAta+3dWdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAtTA+NXdAAGPGluaXQ+c3EAfgALnr5i0XQACHByZVN0YXJ0c3EAfgAL4br6fXQACXVuaGFuZGxlZHNxAH4AC7Kmjfd0AAI9PXNxAH4AC96uaqh0AAVjbG9uZXNxAH4AC9NziuF0AAZzZW5kZXJzcQB+AAs+9Om/dAAIdG9TdHJpbmdzcQB+AAunxuEjdAACIT1zcQB+AAvPY/EMdAADZ2V0c3EAfgALritkDHQACURvY3VtZW50c3NxAH4AC4lf5E90AAhnZXRDbGFzc3NxAH4ACxuTzKh0AAVXb3Jkc3NxAH4AC4DrAS10AAJuZXNxAH4ACzdhgCd0AAR3b3Jkc3EAfgALxBsxJXQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC0x3JGN0AAJlcXNxAH4AC1l1iRV0AANsb2dzcQB+AAseB/svdAACIyNzcQB+AAtwsbhUdAAEbGlzdHNxAH4AC/EL30V0AAhmaW5hbGl6ZXNxAH4ACyK0qY50AAhoYXNoQ29kZXNxAH4AC/r0RFl0AAVJbmRleHNxAH4AC2l/K4l0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AH94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABdjczIyMC5hY3RvcnMuSW5kZXhBY3RvcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCXAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgB/TAAJaW5oZXJpdGVkcQB+AH9MAAdwYXJlbnRzcQB+AH94cQB+AJ5zcQB+AJcBdXEAfgB6AAAAAHBzcQB+AJcBdXEAfgB6AAAAAHBzcQB+AJcBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAARzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCddAAMQWN0b3JMb2dnaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgC2dAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4At3NxAH4AqnQABUFjdG9ycQB+ALBzcQB+AKp0AAZPYmplY3RzcQB+AK5zcQB+ALF1cQB+ALQAAAADc3EAfgC2dAAEamF2YXNxAH4AtnQABGxhbmdxAH4AvXNxAH4AqnQAA0FueXNxAH4ArnNxAH4AsXVxAH4AtAAAAAJzcQB+ALZ0AAVzY2FsYXEAfgC9cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAxjczIyMC5hY3RvcnNzcQB+ANJ0AAVjczIyMHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUnBHMeB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABVL2hvbWUvc2hlbmdib2xvdS8yODUzMDk5NS9hc24taW52ZXJ0ZWQtaW5kZXgtc3R1ZGVudC1tYXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEfCcKR2XUEXoYaGyae/z56IIn1O
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDdYzWKAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwuEjgqHQABHNlbGZzcQB+AAutkWvsdAAHY29udGV4dHVxAH4ACQAAACZzcQB+AAsIGd1BdAAGbm90aWZ5c3EAfgALDxnL4nQAB1JlY2VpdmVzcQB+AAvILK/MdAAEd2FpdHNxAH4AC6UiZJV0AA0kYXNJbnN0YW5jZU9mc3EAfgAL003aBXQABmVxdWFsc3NxAH4AC6WLCB90AAVxdWV1ZXNxAH4AC+HiAKF0AAxhc0luc3RhbmNlT2ZzcQB+AAsa+3+idAAMc3luY2hyb25pemVkc3EAfgALj1b9FHQADSRpc0luc3RhbmNlT2ZzcQB+AAuziU0tdAAHcmVjZWl2ZXNxAH4AC26fSnx0AApwcmVSZXN0YXJ0c3EAfgAL5UL+d3QADWFyb3VuZFJlY2VpdmVzcQB+AAtJicDodAALcG9zdFJlc3RhcnRzcQB+AAti+3PcdAAIcG9zdFN0b3BzcQB+AAvxNGwZdAAJbm90aWZ5QWxsc3EAfgALcN2PNnQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALg8HKoHQADGlzSW5zdGFuY2VPZnNxAH4ACyuyxMZ0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALdl4e3XQADmFyb3VuZFBvc3RTdG9wc3EAfgALr/8x4nQABjxpbml0PnNxAH4ACyNGz5p0AAhwcmVTdGFydHNxAH4AC8H955J0AAl1bmhhbmRsZWRzcQB+AAsfjiqwdAACPT1zcQB+AAs/01izdAAFY2xvbmVzcQB+AAv6r85adAAGc2VuZGVyc3EAfgALOCJg3XQACHRvU3RyaW5nc3EAfgALYYAzR3QAAiE9c3EAfgALMLfTl3QACGdldENsYXNzc3EAfgALcBKXa3QAAm5lc3EAfgALmvFbMXQABWxpbWl0c3EAfgALyoZrn3QAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC2oSwU90AAJlcXNxAH4AC7d2tS10AANsb2dzcQB+AAs1Po0PdAACIyNzcQB+AAvDYzwddAAIZmluYWxpemVzcQB+AAuNHOlOdAAIaGFzaENvZGVzcQB+AAujST2sdAAOYXJvdW5kUHJlU3RhcnRzcQB+AAsJnWGbdAAOTGlua1F1ZXVlQWN0b3JzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBneHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAbY3MyMjAuYWN0b3JzLkxpbmtRdWV1ZUFjdG9ydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AH8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGdMAAlpbmhlcml0ZWRxAH4AZ0wAB3BhcmVudHNxAH4AZ3hxAH4AhnNxAH4AfwF1cQB+AGIAAAAAcHNxAH4AfwF1cQB+AGIAAAAAcHNxAH4AfwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIV0AAxBY3RvckxvZ2dpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AJ50AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCfc3EAfgCSdAAFQWN0b3JxAH4AmHNxAH4AknQABk9iamVjdHNxAH4AlnNxAH4AmXVxAH4AnAAAAANzcQB+AJ50AARqYXZhc3EAfgCedAAEbGFuZ3EAfgClc3EAfgCSdAADQW55c3EAfgCWc3EAfgCZdXEAfgCcAAAAAnNxAH4AnnQABXNjYWxhcQB+AKVwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQADGNzMjIwLmFjdG9yc3NxAH4AunQABWNzMjIwc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFScEcx4HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFUvaG9tZS9zaGVuZ2JvbG91LzI4NTMwOTk1L2Fzbi1pbnZlcnRlZC1pbmRleC1zdHVkZW50LW1hc3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUxIXjXNjfDBUAYsWmxoSdBBkmhxg=
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBmsV4PAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAALHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJJ9WQt0AAZub3RpZnlzcQB+AAxcVkBVdAAJQ2hlY2tMaW5rc3EAfgAMP4eJEHQABHdhaXRzcQB+AAzK2dKedAAOY29weSRkZWZhdWx0JDJzcQB+AAxjhDp2dAANJGFzSW5zdGFuY2VPZnNxAH4ADFyJCJR0AAxwcm9kdWN0QXJpdHlzcQB+AAyBQ09IdAADdXJsc3EAfgAMrHCneXQABmVxdWFsc3NxAH4ADD4R7S90AAxhc0luc3RhbmNlT2ZzcQB+AAzZKM6OdAAJUXVldWVMaW5rc3EAfgAM2Vtx5HQADHN5bmNocm9uaXplZHNxAH4ADGNXbGx0AAhOZWVkTGlua3NxAH4ADMDffZ10AA0kaXNJbnN0YW5jZU9mc3EAfgAMZ6YFyHQACUNoZWNrUGFnZXNxAH4ADMRRC/t0AAhjYW5FcXVhbHNxAH4ADLCfAPR0AA1wcm9kdWN0UHJlZml4c3EAfgAMQuYO63QACW5vdGlmeUFsbHNxAH4ADGRmmV10AAtyZWFkUmVzb2x2ZXNxAH4ADOLMntx0AAdOb1BhZ2Vzc3EAfgAM5XLTl3QADGlzSW5zdGFuY2VPZnNxAH4ADAXUXV90AARQYWdlc3EAfgAMl7sCvnQABjxpbml0PnNxAH4ADAIlSLB0AAI9PXNxAH4ADFZs76B0AAVjbG9uZXNxAH4ADAQLDFp0AARjb3B5c3EAfgAM1W65o3QACHRvU3RyaW5nc3EAfgAMZeHd0XQAAiE9c3EAfgAMgrqIKHQAB05vTGlua3NzcQB+AAwxTwFrdAAJUGFyc2VQYWdlc3EAfgAM9TUBA3QACGdldENsYXNzc3EAfgAM0GQ0L3QADmNvcHkkZGVmYXVsdCQxc3EAfgAM/Dd2BnQABGh0bWxzcQB+AAxVtSZAdAACbmVzcQB+AAxRzbJndAAEd29yZHNxAH4ADJ29jYB0AAlGZXRjaExpbmtzcQB+AAwSSthrdAAITmVlZFBhZ2VzcQB+AAxb4hKQdAACZXFzcQB+AAygWMwGdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAM9lOyWnQABFdvcmRzcQB+AAxlAYfydAACIyNzcQB+AAwKzKsZdAAIZmluYWxpemVzcQB+AAxgfgDQdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAwzKsKmdAAIaGFzaENvZGVzcQB+AAxyIR9KdAAETGlua3NyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAxzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AG94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABVjczIyMC5hY3RvcnMuTmVlZExpbmt1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AIcBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AG9MAAlpbmhlcml0ZWRxAH4Ab0wAB3BhcmVudHNxAH4Ab3hxAH4AjnNxAH4AhwF1cQB+AGoAAAAAcHNxAH4AhwF1cQB+AGoAAAAAcHNxAH4AhwF1cgARW0x4c2J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
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBLcFNHAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw2hj6ZXQABHNlbGZzcQB+AAtTgnR9dAAHY29udGV4dHVxAH4ACQAAACRzcQB+AAtav1fVdAAGbm90aWZ5c3EAfgALH5iuWnQAB1JlY2VpdmVzcQB+AAsWIK+zdAAEd2FpdHNxAH4AC426sJd0AA0kYXNJbnN0YW5jZU9mc3EAfgALdtPcXnQABmVxdWFsc3NxAH4AC1WGpOJ0AAxhc0luc3RhbmNlT2ZzcQB+AAtb+iMedAAMc3luY2hyb25pemVkc3EAfgALqA3AbHQADSRpc0luc3RhbmNlT2ZzcQB+AAs5GXAQdAAHcmVjZWl2ZXNxAH4AC39m9xl0AApwcmVSZXN0YXJ0c3EAfgALJvrzZXQADWFyb3VuZFJlY2VpdmVzcQB+AAvJ+u1TdAALcG9zdFJlc3RhcnRzcQB+AAvRYbMMdAAIcG9zdFN0b3BzcQB+AAu2pnkndAAJbm90aWZ5QWxsc3EAfgALqrBY0HQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALWTUPWHQADGlzSW5zdGFuY2VPZnNxAH4AC9oKtCJ0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALLsvLKnQADmFyb3VuZFBvc3RTdG9wc3EAfgALPMDHp3QABjxpbml0PnNxAH4AC6aEbrR0AAhwcmVTdGFydHNxAH4AC9bnAjd0AAl1bmhhbmRsZWRzcQB+AAttylLfdAACPT1zcQB+AAsEiV79dAAFY2xvbmVzcQB+AAtuQqvCdAAGc2VuZGVyc3EAfgAL5G22WnQACHRvU3RyaW5nc3EAfgALgQMc5XQAAiE9c3EAfgALsFwVE3QACGdldENsYXNzc3EAfgALCXwusHQAAm5lc3EAfgALJgBfu3QAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4AC+o/P050AAJlcXNxAH4ACx2fWal0AANsb2dzcQB+AAtzijvvdAACIyNzcQB+AAudIfojdAAIZmluYWxpemVzcQB+AAuk9bUvdAAIaGFzaENvZGVzcQB+AAtBKjYxdAAOYXJvdW5kUHJlU3RhcnRzcQB+AAtRqfR8dAAKUGFyc2VBY3RvcnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABdjczIyMC5hY3RvcnMuUGFyc2VBY3RvcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgB7AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBjTAAJaW5oZXJpdGVkcQB+AGNMAAdwYXJlbnRzcQB+AGN4cQB+AIJzcQB+AHsBdXEAfgBeAAAAAHBzcQB+AHsBdXEAfgBeAAAAAHBzcQB+AHsBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAARzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCBdAAMQWN0b3JMb2dnaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCBc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCadAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Am3NxAH4AjnQABUFjdG9ycQB+AJRzcQB+AI50AAZPYmplY3RzcQB+AJJzcQB+AJV1cQB+AJgAAAADc3EAfgCadAAEamF2YXNxAH4AmnQABGxhbmdxAH4AoXNxAH4AjnQAA0FueXNxAH4AknNxAH4AlXVxAH4AmAAAAAJzcQB+AJp0AAVzY2FsYXEAfgChcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgAMeHB0AAxjczIyMC5hY3RvcnNzcQB+ALZ0AAVjczIyMHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUnBHMeB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AAxMAA9zb3VyY2VEaXJlY3RvcnlxAH4ADHhwdABVL2hvbWUvc2hlbmdib2xvdS8yODUzMDk5NS9hc24taW52ZXJ0ZWQtaW5kZXgtc3R1ZGVudC1tYXN0ZXIvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFM/TYZkcWt7x3DQO8kHJd0YzTqcJ
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBL8Ka4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwx3QQ/HQABHNlbGZzcQB+AAvg7GCDdAAHY29udGV4dHVxAH4ACQAAACZzcQB+AAvwx/7OdAAGbm90aWZ5c3EAfgALXnA17HQACWxpbmtRdWV1ZXNxAH4AC+Vgb6l0AAdSZWNlaXZlc3EAfgALJ+SkxXQABHdhaXRzcQB+AAs+ptnjdAANJGFzSW5zdGFuY2VPZnNxAH4AC5BL92h0AAZlcXVhbHNzcQB+AAs9BAvZdAAFcXVldWVzcQB+AAsIwOTidAAMYXNJbnN0YW5jZU9mc3EAfgALZsdmIHQADHN5bmNocm9uaXplZHNxAH4AC5kIuOp0AA0kaXNJbnN0YW5jZU9mc3EAfgALN7romnQAB3JlY2VpdmVzcQB+AAujoscZdAAKcHJlUmVzdGFydHNxAH4AC44+bER0AA1hcm91bmRSZWNlaXZlc3EAfgALh8fxlHQAC3Bvc3RSZXN0YXJ0c3EAfgALH2nNlXQACHBvc3RTdG9wc3EAfgALyH9la3QACW5vdGlmeUFsbHNxAH4AC/+VMmV0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4ACwhCsE50AAxpc0luc3RhbmNlT2ZzcQB+AAuHyrbjdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4AC89R1oV0AA5hcm91bmRQb3N0U3RvcHNxAH4AC6BI6Kd0AA9QYXJzZVF1ZXVlQWN0b3JzcQB+AAtRk5e7dAAGPGluaXQ+c3EAfgALsjWlk3QACHByZVN0YXJ0c3EAfgALZ/ZZHXQACXVuaGFuZGxlZHNxAH4ACzm/c8V0AAI9PXNxAH4AC4ONZFB0AAVjbG9uZXNxAH4AC89F+y10AAZzZW5kZXJzcQB+AAsWMIf/dAAIdG9TdHJpbmdzcQB+AAtgKyczdAACIT1zcQB+AAtPICWMdAAIZ2V0Q2xhc3NzcQB+AAtHyWNEdAACbmVzcQB+AAt1xA+ldAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALqyfyxXQAAmVxc3EAfgALn6o9cXQAA2xvZ3NxAH4AC6BPlqx0AAIjI3NxAH4AC+GqLgZ0AAhmaW5hbGl6ZXNxAH4AC4w/8JN0AAhoYXNoQ29kZXNxAH4ACwyVVzV0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABxjczIyMC5hY3RvcnMuUGFyc2VRdWV1ZUFjdG9ydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AH8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGdMAAlpbmhlcml0ZWRxAH4AZ0wAB3BhcmVudHNxAH4AZ3hxAH4AhnNxAH4AfwF1cQB+AGIAAAAAcHNxAH4AfwF1cQB+AGIAAAAAcHNxAH4AfwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIV0AAxBY3RvckxvZ2dpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AJ50AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCfc3EAfgCSdAAFQWN0b3JxAH4AmHNxAH4AknQABk9iamVjdHNxAH4AlnNxAH4AmXVxAH4AnAAAAANzcQB+AJ50AARqYXZhc3EAfgCedAAEbGFuZ3EAfgClc3EAfgCSdAADQW55c3EAfgCWc3EAfgCZdXEAfgCcAAAAAnNxAH4AnnQABXNjYWxhcQB+AKVwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AAx4cHQADGNzMjIwLmFjdG9yc3NxAH4AunQABWNzMjIwc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFScEcx4HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AFUvaG9tZS9zaGVuZ2JvbG91LzI4NTMwOTk1L2Fzbi1pbnZlcnRlZC1pbmRleC1zdHVkZW50LW1hc3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUB+mAaRmPPjEMrS34v4TtLEIll6k=
+external apis:
+0 items
+source infos:
+8 items
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Indexer.scala -> 
+AAAAAAAAAAA=
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/Searcher.scala -> 
+AAAAAAAAAAA=
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/FetchActor.scala -> 
+AAAAAAAAAAA=
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/IndexActor.scala -> 
+AAAAAAAAAAA=
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/LinkQueueActor.scala -> 
+AAAAAAAAAAA=
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/Messages.scala -> 
+AAAAAAAAAAA=
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseActor.scala -> 
+AAAAAAAAAAA=
+/home/shengbolou/28530995/asn-inverted-index-student-master/src/main/scala/cs220/actors/ParseQueueActor.scala -> 
+AAAAAAAAAAA=
+compilations:
+7 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTOxshnF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS92YWdyYW50LzI4NTMwOTk1L2Fzbi1pbnZlcnRlZC1pbmRleC1zdHVkZW50LW1hc3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTOxxyaV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS92YWdyYW50LzI4NTMwOTk1L2Fzbi1pbnZlcnRlZC1pbmRleC1zdHVkZW50LW1hc3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTOx3+X91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS92YWdyYW50LzI4NTMwOTk1L2Fzbi1pbnZlcnRlZC1pbmRleC1zdHVkZW50LW1hc3Rlci90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTO1uv4Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9ob21lL3NoZW5nYm9sb3UvMjg1MzA5OTUvYXNuLWludmVydGVkLWluZGV4LXN0dWRlbnQtbWFzdGVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTPJqj+Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9ob21lL3NoZW5nYm9sb3UvMjg1MzA5OTUvYXNuLWludmVydGVkLWluZGV4LXN0dWRlbnQtbWFzdGVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTPJrksV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9ob21lL3NoZW5nYm9sb3UvMjg1MzA5OTUvYXNuLWludmVydGVkLWluZGV4LXN0dWRlbnQtbWFzdGVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUnBHMeB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9ob21lL3NoZW5nYm9sb3UvMjg1MzA5OTUvYXNuLWludmVydGVkLWluZGV4LXN0dWRlbnQtbWFzdGVyL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
