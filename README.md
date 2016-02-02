@@ -171,9 +171,3 @@ Your task is to complete the implementation of the inverted indexer. You should 
 You should implement as much as possible as functions that you can test from the Scala repl. This will make it easier to test before adding messages into the mix.
 
 You should also try to test the actors with empty implementations to ensure that messages are being sent and received appropriately. Once you are convinced that your actor system is "hooked up" appropriately you can start to add in actual work (i.e., fetch a web page from the web, insert words into the database).
-
-## Task 4: Submit Your Work
-
-You should make frequent git adds, commits, and pushes as you do your
-work. You should make sure that your final implementation has been
-pushed to the remote git server by the assigned due date.
